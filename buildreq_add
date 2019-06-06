@@ -1,0 +1,16 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+mariadb-dev
+v4l-utils-dev
+perl(DBI)
+perl(DBD::mysql)
+perl(Date::Manip)
+perl(Sys::Mmap)
+perl(LWP::UserAgent)
+perl(HTTP::Request)
+perl(URI)
+perl(HTTP::Date)
+perl(Try::Tiny)
+openssl-dev
+polkit-dev
+not-ffmpeg-dev
